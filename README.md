@@ -15,10 +15,12 @@ Notely is a sleek and responsive note-taking web application built with **React*
 - **Local Storage** – To save notes persistently  
 
 ## 📷 Screenshots
-*(Add screenshots here to showcase the app!)*  
+![image](https://github.com/user-attachments/assets/03b6cf77-93f4-4fba-94ba-a036c25b826a)
+ 
 
 ## 📥 Installation & Usage
 1. Clone the repository:  
    ```bash
    git clone https://github.com/yourusername/notely.git
    cd notely
+   npm i
