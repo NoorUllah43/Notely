@@ -1,3 +1,6 @@
+Here’s a Markdown-formatted description for your Notely app:  
+
+```markdown
 # Notely - A Modern Note-Taking Web App
 
 Notely is a sleek and responsive note-taking web application built with **React** and **Tailwind CSS**. It offers a seamless user experience with **dark and light mode support**, ensuring comfortable usage in any environment. 
@@ -15,7 +18,7 @@ Notely is a sleek and responsive note-taking web application built with **React*
 - **Local Storage** – To save notes persistently  
 
 ## 📷 Screenshots
-![image](https://github.com/user-attachments/assets/03b6cf77-93f4-4fba-94ba-a036c25b826a)
+![image](https://github.com/user-attachments/assets/566798b2-7fc0-4b89-9d48-951e702bcfcc)
  
 
 ## 📥 Installation & Usage
@@ -23,4 +26,15 @@ Notely is a sleek and responsive note-taking web application built with **React*
    ```bash
    git clone https://github.com/yourusername/notely.git
    cd notely
-   npm i
+   ```
+2. Install dependencies:  
+   ```bash
+   npm install
+   ```
+3. Start the development server:  
+   ```bash
+   npm run dev
+   ```
+
+## 📌 Live Demo
+(https://notely43.vercel.app/)
